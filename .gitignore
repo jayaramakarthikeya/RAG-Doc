@@ -1,0 +1,9 @@
+.vscode/
+__pycache__/
+*.csv
+*.fuse
+*.key
+*pdf_files/
+*symptom-disease-dataset/
+test.ipynb
+hack_env/
